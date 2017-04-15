@@ -1,0 +1,10 @@
+MCHF MOD:
+
+ra8875 with gsl1680 touch support
+fft 1024 
+800 px wide waterfall and spectrum
+stm32f429 (it needs 256 kB RAM for larger waterfall arrays)
+
+
+https://www.youtube.com/watch?v=pneWfk4e6Q0
+https://www.youtube.com/watch?v=-ib8wd-iLl0
